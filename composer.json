@@ -1,0 +1,18 @@
+{
+    "name": "asm/project",
+    "autoload": {
+        "psr-4": {
+        "Libs\\": "_classes/Libs/",
+        "Helpers\\": "_classes/Helpers/"
+        }
+        },
+    "authors": [
+        {
+            "name": "aungsanmin-phoenix",
+            "email": "sanminaung158@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.20"
+    }
+}
